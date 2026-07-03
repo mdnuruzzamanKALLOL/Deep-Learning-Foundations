@@ -1,0 +1,6 @@
+*.png
+!**/assets/*.png
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+catboost_info/
