@@ -63,7 +63,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 17 | [Sequence-to-Sequence Models & Encoder-Decoder Architecture](17_Sequence_to_Sequence_Models_Encoder_Decoder_Architecture/) | Mapping one sequence to another | ✅ |
 | 18 | [Embedding Layers & Representation Learning](18_Embedding_Layers_Representation_Learning/) | Learned dense representations for discrete inputs | ✅ |
 | 19 | [Generative Adversarial Networks (GAN) Basics](19_Generative_Adversarial_Networks_GAN_Basics/) | Generator vs. discriminator, learned through competition | ✅ |
-| 20 | [Model Interpretability for Deep Nets](20_Model_Interpretability_for_Deep_Nets/) | Grad-CAM, saliency maps, and explaining black-box predictions | 🚧 |
+| 20 | [Model Interpretability for Deep Nets](20_Model_Interpretability_for_Deep_Nets/) | Grad-CAM, saliency maps, and explaining black-box predictions | ✅ |
 
 **20 topics planned** — built one at a time, each with a deep-dive `README.md` (full math derivation in LaTeX, pitfalls, self-test exercises) and a fully-executed Jupyter notebook (30+ code cells), following the exact standard established in [Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation) and [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML).
 
@@ -150,7 +150,7 @@ Real-data topics draw from the central **[Datasets](https://github.com/mdnuruzza
 | [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML) | Regression, Classification, Ensembles, Unsupervised, Model Evaluation & Tuning (29 algorithms) | ✅ Complete |
 | [Statistical Inference & Hypothesis Testing](https://github.com/mdnuruzzamanKALLOL/Statistical-Inference-Hypothesis-Testing) | Probability through causal inference (20 topics) | 🚧 In progress |
 | [Time Series Analysis](https://github.com/mdnuruzzamanKALLOL/Time-Series-Analysis) | Decomposition through neural forecasting (20 topics) | 🚧 In progress |
-| [Deep Learning Foundations](https://github.com/mdnuruzzamanKALLOL/Deep-Learning-Foundations) | Perceptron through GANs and interpretability (20 topics) | 🚧 In progress |
+| [Deep Learning Foundations](https://github.com/mdnuruzzamanKALLOL/Deep-Learning-Foundations) | Perceptron through GANs and interpretability (20 topics) | ✅ Complete |
 | [Datasets](https://github.com/mdnuruzzamanKALLOL/Datasets) | 418 datasets (162 cataloged + personal collection) backing the whole series | ✅ Complete |
 
 ## 📝 Self-Test Philosophy
