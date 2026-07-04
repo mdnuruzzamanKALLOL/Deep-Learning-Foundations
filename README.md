@@ -62,7 +62,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 16 | [Vanishing/Exploding Gradients & Gradient Clipping](16_VanishingExploding_Gradients_Gradient_Clipping/) | Why deep networks are hard to train, and how to fix it | ✅ |
 | 17 | [Sequence-to-Sequence Models & Encoder-Decoder Architecture](17_Sequence_to_Sequence_Models_Encoder_Decoder_Architecture/) | Mapping one sequence to another | ✅ |
 | 18 | [Embedding Layers & Representation Learning](18_Embedding_Layers_Representation_Learning/) | Learned dense representations for discrete inputs | ✅ |
-| 19 | [Generative Adversarial Networks (GAN) Basics](19_Generative_Adversarial_Networks_GAN_Basics/) | Generator vs. discriminator, learned through competition | 🚧 |
+| 19 | [Generative Adversarial Networks (GAN) Basics](19_Generative_Adversarial_Networks_GAN_Basics/) | Generator vs. discriminator, learned through competition | ✅ |
 | 20 | [Model Interpretability for Deep Nets](20_Model_Interpretability_for_Deep_Nets/) | Grad-CAM, saliency maps, and explaining black-box predictions | 🚧 |
 
 **20 topics planned** — built one at a time, each with a deep-dive `README.md` (full math derivation in LaTeX, pitfalls, self-test exercises) and a fully-executed Jupyter notebook (30+ code cells), following the exact standard established in [Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation) and [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML).
