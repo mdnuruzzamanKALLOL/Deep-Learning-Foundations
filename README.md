@@ -53,7 +53,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 07 | [Regularization](07_Regularization/) | Dropout, L1/L2, early stopping, data augmentation | ✅ |
 | 08 | [Batch Normalization & Layer Normalization](08_Batch_Normalization_Layer_Normalization/) | Stabilizing and accelerating deep network training | ✅ |
 | 09 | [CNN Basics](09_CNN_Basics/) | Convolution, pooling, and feature maps from scratch | ✅ |
-| 10 | [RNN Basics](10_RNN_Basics/) | Vanilla recurrent networks and the vanishing gradient problem | 🚧 |
+| 10 | [RNN Basics](10_RNN_Basics/) | Vanilla recurrent networks and the vanishing gradient problem | ✅ |
 | 11 | [LSTM & GRU Fundamentals](11_LSTM_GRU_Fundamentals/) | Gated recurrent cells derived from scratch | 🚧 |
 | 12 | [Autoencoders](12_Autoencoders/) | Basic, denoising, and a variational introduction | 🚧 |
 | 13 | [Transfer Learning & Fine-Tuning](13_Transfer_Learning_Fine_Tuning/) | Reusing pretrained representations for a new task | 🚧 |
