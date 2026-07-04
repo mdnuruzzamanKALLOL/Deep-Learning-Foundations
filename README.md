@@ -47,7 +47,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 01 | [The Perceptron & Single-Layer Networks](01_The_Perceptron_Single_Layer_Networks/) | The original linear neuron and its learning rule | ✅ |
 | 02 | [Multi-Layer Perceptrons & Backpropagation](02_Multi_Layer_Perceptrons_Backpropagation/) | The core algorithm every deep network is trained with | ✅ |
 | 03 | [Activation Functions](03_Activation_Functions/) | Sigmoid, Tanh, ReLU, Leaky ReLU, GELU, Swish | ✅ |
-| 04 | [Loss Functions](04_Loss_Functions/) | Cross-Entropy, MSE, Hinge, Focal Loss | 🚧 |
+| 04 | [Loss Functions](04_Loss_Functions/) | Cross-Entropy, MSE, Hinge, Focal Loss | ✅ |
 | 05 | [Optimizers](05_Optimizers/) | SGD, Momentum, RMSProp, Adam, AdamW | 🚧 |
 | 06 | [Weight Initialization](06_Weight_Initialization/) | Xavier/Glorot and He initialization, and why it matters | 🚧 |
 | 07 | [Regularization](07_Regularization/) | Dropout, L1/L2, early stopping, data augmentation | 🚧 |
