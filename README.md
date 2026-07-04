@@ -56,7 +56,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 10 | [RNN Basics](10_RNN_Basics/) | Vanilla recurrent networks and the vanishing gradient problem | ✅ |
 | 11 | [LSTM & GRU Fundamentals](11_LSTM_GRU_Fundamentals/) | Gated recurrent cells derived from scratch | ✅ |
 | 12 | [Autoencoders](12_Autoencoders/) | Basic, denoising, and a variational introduction | ✅ |
-| 13 | [Transfer Learning & Fine-Tuning](13_Transfer_Learning_Fine_Tuning/) | Reusing pretrained representations for a new task | 🚧 |
+| 13 | [Transfer Learning & Fine-Tuning](13_Transfer_Learning_Fine_Tuning/) | Reusing pretrained representations for a new task | ✅ |
 | 14 | [Attention Mechanism Basics](14_Attention_Mechanism_Basics/) | The mechanism behind Transformers, before the full architecture | 🚧 |
 | 15 | [Hyperparameter Tuning for Deep Nets](15_Hyperparameter_Tuning_for_Deep_Nets/) | Learning rate schedules and search strategies for neural networks | 🚧 |
 | 16 | [Vanishing/Exploding Gradients & Gradient Clipping](16_VanishingExploding_Gradients_Gradient_Clipping/) | Why deep networks are hard to train, and how to fix it | 🚧 |
