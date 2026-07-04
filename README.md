@@ -61,7 +61,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 15 | [Hyperparameter Tuning for Deep Nets](15_Hyperparameter_Tuning_for_Deep_Nets/) | Learning rate schedules and search strategies for neural networks | ✅ |
 | 16 | [Vanishing/Exploding Gradients & Gradient Clipping](16_VanishingExploding_Gradients_Gradient_Clipping/) | Why deep networks are hard to train, and how to fix it | ✅ |
 | 17 | [Sequence-to-Sequence Models & Encoder-Decoder Architecture](17_Sequence_to_Sequence_Models_Encoder_Decoder_Architecture/) | Mapping one sequence to another | ✅ |
-| 18 | [Embedding Layers & Representation Learning](18_Embedding_Layers_Representation_Learning/) | Learned dense representations for discrete inputs | 🚧 |
+| 18 | [Embedding Layers & Representation Learning](18_Embedding_Layers_Representation_Learning/) | Learned dense representations for discrete inputs | ✅ |
 | 19 | [Generative Adversarial Networks (GAN) Basics](19_Generative_Adversarial_Networks_GAN_Basics/) | Generator vs. discriminator, learned through competition | 🚧 |
 | 20 | [Model Interpretability for Deep Nets](20_Model_Interpretability_for_Deep_Nets/) | Grad-CAM, saliency maps, and explaining black-box predictions | 🚧 |
 
