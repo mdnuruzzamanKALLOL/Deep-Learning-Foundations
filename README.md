@@ -51,7 +51,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 05 | [Optimizers](05_Optimizers/) | SGD, Momentum, RMSProp, Adam, AdamW | ✅ |
 | 06 | [Weight Initialization](06_Weight_Initialization/) | Xavier/Glorot and He initialization, and why it matters | ✅ |
 | 07 | [Regularization](07_Regularization/) | Dropout, L1/L2, early stopping, data augmentation | ✅ |
-| 08 | [Batch Normalization & Layer Normalization](08_Batch_Normalization_Layer_Normalization/) | Stabilizing and accelerating deep network training | 🚧 |
+| 08 | [Batch Normalization & Layer Normalization](08_Batch_Normalization_Layer_Normalization/) | Stabilizing and accelerating deep network training | ✅ |
 | 09 | [CNN Basics](09_CNN_Basics/) | Convolution, pooling, and feature maps from scratch | 🚧 |
 | 10 | [RNN Basics](10_RNN_Basics/) | Vanilla recurrent networks and the vanishing gradient problem | 🚧 |
 | 11 | [LSTM & GRU Fundamentals](11_LSTM_GRU_Fundamentals/) | Gated recurrent cells derived from scratch | 🚧 |
