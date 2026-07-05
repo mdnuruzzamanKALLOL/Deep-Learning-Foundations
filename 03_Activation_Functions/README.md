@@ -117,3 +117,9 @@ Sigmoid is dramatically the slowest (2,165 epochs to reach 90% train accuracy ‚Ä
 
 ---
 [‚Üê Back to Deep Learning Foundations](../README.md)
+<!-- page-views-badge -->
+<div align="center" style="margin-top: 16px;">
+
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.DeepLearningFoundations.03_Activation_Functions&left_color=%23FF6F00&right_color=%230e75b6&left_text=Page%20Views)
+
+</div>

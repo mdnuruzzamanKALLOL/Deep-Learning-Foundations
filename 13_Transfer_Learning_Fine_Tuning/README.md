@@ -164,3 +164,9 @@ representation is the main asset being transferred.
 
 ---
 [← Back to Deep Learning Foundations](../README.md)
+<!-- page-views-badge -->
+<div align="center" style="margin-top: 16px;">
+
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.DeepLearningFoundations.13_Transfer_Learning_Fine_Tuning&left_color=%23FF6F00&right_color=%230e75b6&left_text=Page%20Views)
+
+</div>

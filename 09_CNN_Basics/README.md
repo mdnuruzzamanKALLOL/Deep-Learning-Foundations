@@ -170,3 +170,9 @@ shifting scrambles that mapping entirely.
 
 ---
 [← Back to Deep Learning Foundations](../README.md)
+<!-- page-views-badge -->
+<div align="center" style="margin-top: 16px;">
+
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.DeepLearningFoundations.09_CNN_Basics&left_color=%23FF6F00&right_color=%230e75b6&left_text=Page%20Views)
+
+</div>
